@@ -1,0 +1,17 @@
+{
+  "name": "outaiba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "pug": "^3.0.2",
+    "yargs": "^17.5.1"
+  }
+}
